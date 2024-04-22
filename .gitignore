@@ -1,3 +1,8 @@
+.DS_store
+.vscode
+dist
+examples/firing_pixels_filtered.fits
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
