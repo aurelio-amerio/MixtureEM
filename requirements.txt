@@ -1,4 +1,0 @@
-astropy
-healpy
-numba
-numpy
